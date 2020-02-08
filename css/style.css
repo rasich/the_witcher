@@ -207,6 +207,13 @@ body {
   background-position: center;
   background-color: transparent;
 }
+.arrow:active {
+  text-decoration: none;
+  color: #fff;
+}
+.arrow:focus {
+  outline: none;
+}
 .swiper-container {
   max-width: 420px;
   margin-left: 0;
